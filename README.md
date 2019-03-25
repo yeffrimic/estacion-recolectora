@@ -43,5 +43,5 @@ El sensor de temperatura y humedad enviara alertas cuando los valores de humedad
 
 **simulación**
 
-![Simulacion](Pictures/simulacion%204.jpeg)
+![Simulacion](Pictures/simulacion%201.jpeg)
 
