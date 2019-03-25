@@ -1,4 +1,4 @@
-# ![](Pictures/Xibalba%20Hackespace/solo%20letras.png)Estacion recolectora Documento Técnico
+# ![](Pictures/solo%20letras.png)Estacion recolectora Documento Técnico
 
 **Introducción**:
 
