@@ -15,7 +15,7 @@ Para poder hacer buen uso del software se necesita tener
    1. Windows Documents\Arduino\libraries\
    2. GNU/Linux: home/Arduino/libraries/
 
-4. Abrir el archivo LomaxIoT.ino con el IDE Arduino
+4. Abrir el archivo EstacionRecolectora.ino con el IDE Arduino
 
 5. Verificar el código.
 
